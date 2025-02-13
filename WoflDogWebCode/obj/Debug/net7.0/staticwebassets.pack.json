@@ -1,0 +1,1549 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\CNAME",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\LICENSE",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\css\\animation.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\css\\animation.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\css\\elusive-codes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\css\\elusive-codes.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\css\\elusive-embedded.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\css\\elusive-embedded.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\css\\elusive-ie7-codes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\css\\elusive-ie7-codes.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\css\\elusive-ie7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\css\\elusive-ie7.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\css\\elusive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\css\\elusive.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\font\\elusive.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\font\\elusive.eot"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\font\\elusive.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\font\\elusive.svg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\font\\elusive.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\font\\elusive.ttf"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\elusive\\font\\elusive.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\elusive\\font\\elusive.woff"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\css\\animation.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\css\\animation.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\css\\linecons-codes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\css\\linecons-codes.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\css\\linecons-embedded.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\css\\linecons-embedded.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\css\\linecons-ie7-codes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\css\\linecons-ie7-codes.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\css\\linecons-ie7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\css\\linecons-ie7.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\css\\linecons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\css\\linecons.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\font\\linecons.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\font\\linecons.eot"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\font\\linecons.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\font\\linecons.svg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\font\\linecons.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\font\\linecons.ttf"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\linecons\\font\\linecons.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\linecons\\font\\linecons.woff"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\css\\animation.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\css\\animation.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\css\\meteocons-codes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\css\\meteocons-codes.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\css\\meteocons-embedded.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\css\\meteocons-embedded.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\css\\meteocons-ie7-codes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\css\\meteocons-ie7-codes.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\css\\meteocons-ie7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\css\\meteocons-ie7.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\css\\meteocons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\css\\meteocons.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\font\\meteocons.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\font\\meteocons.eot"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\font\\meteocons.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\font\\meteocons.svg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\font\\meteocons.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\font\\meteocons.ttf"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\fonts\\meteocons\\font\\meteocons.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\meteocons\\font\\meteocons.woff"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\nav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nav.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\xenon-components.css",
+      "PackagePath": "staticwebassets\\assets\\css\\xenon-components.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\xenon-core.css",
+      "PackagePath": "staticwebassets\\assets\\css\\xenon-core.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\xenon-forms.css",
+      "PackagePath": "staticwebassets\\assets\\css\\xenon-forms.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\xenon-skins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\xenon-skins.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\css\\xenon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\xenon.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\coffee.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\favicon.bak.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.bak.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\flags\\flag-cn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\flag-cn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\flags\\flag-us.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\flag-us.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logo-collapsed@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-collapsed@2x.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logo@2x.bak.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo@2x.bak.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logo@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo@2x.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logo_dark@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_dark@2x.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\365PSD.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\365PSD.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\36kr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\36kr.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\3dsmax.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\3dsmax.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\500d.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\500d.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\55mm.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\55mm.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\90sheji.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\90sheji.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ADOBEXDCC.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ADOBEXDCC.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\AdobeAfterEffectsCC.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\AdobeAfterEffectsCC.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\AdobeColorCC.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\AdobeColorCC.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\AffinityDesigner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\AffinityDesigner.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\AirbnbDesign.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\AirbnbDesign.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Android9patch.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Android9patch.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\AndroidNiceties.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\AndroidNiceties.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\AwesomeSketchPlugins.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\AwesomeSketchPlugins.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\BWG.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\BWG.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\CSSDesignAwards.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\CSSDesignAwards.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\CollectUI.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\CollectUI.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Coolest.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Coolest.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Designmodo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Designmodo.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Dunnnk.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Dunnnk.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Ecommercefolio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Ecommercefolio.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Ezgif.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Ezgif.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\FacebookDesign.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\FacebookDesign.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\FindIcons.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\FindIcons.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Fondertype.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Fondertype.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\FontM.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\FontM.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Fribbble.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Fribbble.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\GoogleDesign.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\GoogleDesign.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\INDESIGN .png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\INDESIGN .png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\IcoMoonApp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\IcoMoonApp.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Iconfinder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Iconfinder.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Illustrator.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Illustrator.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\InstantLogoSearch.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\InstantLogoSearch.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Lapa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Lapa.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Material_Design.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Material_Design.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Materialicons.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Materialicons.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Medialoot.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Medialoot.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\MockupZone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\MockupZone.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\MuseCC.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\MuseCC.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\MyFonts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\MyFonts.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\NEXT.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\NEXT.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\OnlineWebFonts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\OnlineWebFonts.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\PhotoshopLady.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\PhotoshopLady.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\PrincipleRepo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\PrincipleRepo.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Pttrns.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Pttrns.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ReallyGoodUX.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ReallyGoodUX.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\SiteSee.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\SiteSee.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\Sketch.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\Sketch.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\SketchMeasure.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\SketchMeasure.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\SplitShire.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\SplitShire.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\StockSnap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\StockSnap.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\UICloud.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\UICloud.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\UrbanFonts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\UrbanFonts.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\WebInspiration.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\WebInspiration.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\abstractfonts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\abstractfonts.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\albumarium.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\albumarium.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\aliued.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\aliued.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\aliuedcn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\aliuedcn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\aliyun.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\aliyun.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\anyway.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\anyway.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\appinn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\appinn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\awesome_design_systems.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\awesome_design_systems.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\awwwards.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\awwwards.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\behance.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\blender.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\blender.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\boxesandarrows.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\boxesandarrows.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\cdc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\cdc.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\chanpin100.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\chanpin100.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\cinema4d.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\cinema4d.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\colorhunt.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\colorhunt.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\coolors.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\coolors.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\csspeeper.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\csspeeper.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ctrip.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ctrip.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\dafont.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\dafont.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\default.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\default.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\designguidelines.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\designguidelines.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\designmunk.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\designmunk.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\digitaling.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\digitaling.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\doyoudo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\doyoudo.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\dribbble.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\easyicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\easyicon.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\eico.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\eico.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\eleduck.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\eleduck.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\euxbaidu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\euxbaidu.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\figma.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\figma.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\flaticon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\flaticon.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\flatuicolorpicker.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\flatuicolorpicker.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\flatuicolors.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\flatuicolors.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\flinto.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\flinto.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\fontawesomeicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\fontawesomeicon.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\fontex.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\fontex.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\fonts2u.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\fonts2u.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\fontsquirrel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\fontsquirrel.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\forgraphictm.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\forgraphictm.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\framer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\framer.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\freebiesbug.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\freebiesbug.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\freebiesupply.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\freebiesupply.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\freenaturestock.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\freenaturestock.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\freepik.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\freepik.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\fwa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\fwa.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\gaoding.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gaoding.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\google.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\googlefont.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\googlefont.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\goqr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\goqr.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\grabient.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\grabient.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\gradients.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gradients.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\graphberry.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\graphberry.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\gratisography.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gratisography.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\gtn9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gtn9.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\gulusucai.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\gulusucai.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\hdwallpapers.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\hdwallpapers.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\huaban.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\huaban.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\human_interface_guidelines.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\human_interface_guidelines.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\iconarchive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\iconarchive.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\iconfont.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\iconfont.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\iconmonstr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\iconmonstr.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\iconsfeed.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\iconsfeed.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\imcreator.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\imcreator.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\imooc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\imooc.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\insight.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\insight.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\invisionapp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\invisionapp.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ionicons.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ionicons.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\iosicongallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\iosicongallery.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\isorepublic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\isorepublic.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\isux.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\isux.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\iyunying.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\iyunying.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\jdc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\jdc.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\jeshoots.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\jeshoots.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\khroma.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\khroma.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\klart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\klart.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\lanrentuku.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\lanrentuku.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\leiphone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\leiphone.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\librestock.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\librestock.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\lieyunwang.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\lieyunwang.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\lifeofpix.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\lifeofpix.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\liqi.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\liqi.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\littlebigdetails.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\littlebigdetails.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\losttype.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\losttype.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\lstore.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\lstore.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\magdeleine.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\magdeleine.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\marvelapp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\marvelapp.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\medium.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\medium.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\mmtstock.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\mmtstock.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\mockupworld.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\mockupworld.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\mustsee.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\mustsee.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\mxd.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\mxd.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\myphotopack.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\myphotopack.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\navnav.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\navnav.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\negativespace.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\negativespace.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\niaogebiji.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\niaogebiji.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\niceui.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\niceui.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\nipic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\nipic.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\nngroup.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\nngroup.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\notaselfie.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\notaselfie.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\officeplus.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\officeplus.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pages.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pages.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\papers.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\papers.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\photoshop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\photoshop.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\photoshopetiquette.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\photoshopetiquette.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pinterest.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pinterest.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pixabay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pixabay.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pixeden.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pixeden.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pmcaff.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pmcaff.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pptmind.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pptmind.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\pptplus.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\pptplus.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\principle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\principle.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\producthunt.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\producthunt.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\protopie.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\protopie.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\psefan.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\psefan.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\publicdomainarchive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\publicdomainarchive.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\qianku.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\qianku.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\qiantu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\qiantu.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\reeoo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\reeoo.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sccnn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sccnn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\screensizes.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\screensizes.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\shejizhoukan.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\shejizhoukan.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sicangziti.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sicangziti.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\simplelineicons.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\simplelineicons.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\siteInspire.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\siteInspire.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sizzy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sizzy.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sketchIm.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sketchIm.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sketchapp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sketchapp.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sketchappsources.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sketchappsources.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sketchcasts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sketchcasts.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sketchcn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sketchcn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sketchhunt.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sketchhunt.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\skitterphoto.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\skitterphoto.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\smashingmagazine.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\smashingmagazine.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sousucai.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sousucai.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ss-kexueshangwang.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ss-kexueshangwang.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\sspai.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\sspai.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\stokpic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\stokpic.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\svgomg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\svgomg.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\tgideas.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\tgideas.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\thedayscolor.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\thedayscolor.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\thestocks.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\thestocks.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\threed.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\threed.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\tinypng.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\tinypng.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\today.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\today.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\tretars.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\tretars.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\trianglify.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\trianglify.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\typekit.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\typekit.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uedbaidu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uedbaidu.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uedc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uedc.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ui8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ui8.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uicn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uicn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uigradients.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uigradients.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uigreat.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uigreat.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uikitme.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uikitme.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uisdc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uisdc.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uiuigreat.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uiuigreat.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\unsplash.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\unsplash.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uplabs.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uplabs.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\usepanda.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\usepanda.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uxcoffee.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uxcoffee.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uxdesignweekly.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uxdesignweekly.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\uxren.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\uxren.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\vanschneider.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\vanschneider.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\viggoz.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\viggoz.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\visualhunt.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\visualhunt.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\wallhalla.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\wallhalla.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\wappalyzer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\wappalyzer.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\web_ui_tutorial.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\web_ui_tutorial.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\webdesignledger.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\webdesignledger.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\webgradients.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\webgradients.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\worldvectorlogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\worldvectorlogo.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\woshipm.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\woshipm.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\wotu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\wotu.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\xituqu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\xituqu.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\xiyou.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\xiyou.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\yineng.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\yineng.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\youtube.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ypppt.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ypppt.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\yrucd.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\yrucd.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\zaodula.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\zaodula.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\zcool.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\zcool.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\zheshu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\zheshu.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ziticangku.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ziticangku.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\logos\\ziticq.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\ziticq.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\preview.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\preview.gif"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\qqgroup_webstack.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\qqgroup_webstack.jpg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\qqgroup_webstack2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\qqgroup_webstack2.jpg"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\webstack_banner_cn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\webstack_banner_cn.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\webstack_icon_producthunt.png",
+      "PackagePath": "staticwebassets\\assets\\images\\webstack_icon_producthunt.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\images\\webstack_no_pro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\webstack_no_pro.png"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\joinable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\joinable.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\lozad.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lozad.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\resizeable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\resizeable.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\xenon-api.js",
+      "PackagePath": "staticwebassets\\assets\\js\\xenon-api.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\xenon-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\xenon-custom.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\js\\xenon-toggles.js",
+      "PackagePath": "staticwebassets\\assets\\js\\xenon-toggles.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\assets\\webstack_logos.sketch",
+      "PackagePath": "staticwebassets\\assets\\webstack_logos.sketch"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\cn\\about.html",
+      "PackagePath": "staticwebassets\\cn\\about.html"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\cn\\index.html",
+      "PackagePath": "staticwebassets\\cn\\index.html"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\view\\css\\Error404.css",
+      "PackagePath": "staticwebassets\\view\\css\\Error404.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\view\\css\\HomePage.css",
+      "PackagePath": "staticwebassets\\view\\css\\HomePage.css"
+    },
+    {
+      "Id": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\wwwroot\\view\\js\\HomePage.js",
+      "PackagePath": "staticwebassets\\view\\js\\HomePage.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WoflDogWebCode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WoflDogWebCode.props",
+      "PackagePath": "build\\WoflDogWebCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WoflDogWebCode.props",
+      "PackagePath": "buildMultiTargeting\\WoflDogWebCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WoflDogWebCode.props",
+      "PackagePath": "buildTransitive\\WoflDogWebCode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
