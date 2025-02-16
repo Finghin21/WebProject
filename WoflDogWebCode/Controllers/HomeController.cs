@@ -4,7 +4,6 @@ using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 using WoflDogWebCode.Models;
 using WoflDogWebCode.Services;
-using Microsoft.EntityFrameworkCore;
 
 namespace WoflDogWebCode.Controllers
 {
@@ -12,13 +11,17 @@ namespace WoflDogWebCode.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IMenuService _menuService;
-        private readonly DataContext _context;
 
-        public HomeController(ILogger<HomeController> logger, IMenuService menuService, DataContext context)
+        private readonly IResourceNetworkInfoService? _resourceNetworkInfoService;
+
+        private readonly IResourceClassService? _resourceClassService;
+
+        public HomeController(ILogger<HomeController> logger, IMenuService menuService, IResourceNetworkInfoService resourceNetworkInfoService, IResourceClassService resourceClassService)
         {
             _logger = logger;
             _menuService = menuService;
-            _context = context;
+            _resourceNetworkInfoService = resourceNetworkInfoService;
+            _resourceClassService = resourceClassService;
         }
 
         // 定义 Index Action，用于显示主页
@@ -28,6 +31,8 @@ namespace WoflDogWebCode.Controllers
             {
                 var menus = _menuService.GetMenus();
                 ViewBag.Menus = menus;
+                var resourceClasses = _resourceClassService.GetResourceClasses();
+                ViewBag.ResourceClasses = resourceClasses;
                 return View("Index");
             }
             catch (System.Exception)
@@ -44,8 +49,9 @@ namespace WoflDogWebCode.Controllers
             {
                 var menus = _menuService.GetMenus();
                 ViewBag.Menus = menus;
-                var recommendations = _context.Recommendations.ToList();
-                return View("HomePage", recommendations);
+                var resourceClasses = _resourceClassService.GetResourceClasses();
+                ViewBag.ResourceClasses = resourceClasses;
+                return View("HomePage");
             }
             catch (System.Exception)
             {

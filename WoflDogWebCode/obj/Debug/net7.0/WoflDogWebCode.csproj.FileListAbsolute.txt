@@ -67,8 +67,6 @@ D:\Finghin\MyGitLabLibrary\WebProject\WoflDogWebCode\bin\Debug\net7.0\menus.json
 d:\Finghin\MyGitLabLibrary\WebProject\WoflDogWebCode\bin\Debug\net7.0\recommendations.json
 d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\appsettings.Development.json
 d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\appsettings.json
-d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\menus.json
-d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\recommendations.json
 d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\WoflDogWebCode.staticwebassets.runtime.json
 d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\WoflDogWebCode.exe
 d:\Finghin\MyGitLabLibrary\WoflDogWebCode\WoflDogWebCode\bin\Debug\net7.0\WoflDogWebCode.deps.json

@@ -9,8 +9,8 @@ using WoflDogWebCode.Models;
 
 namespace WoflDogWebCode.Migrations
 {
-    [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(ApplicationDbContext))]
+    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
@@ -19,7 +19,7 @@ namespace WoflDogWebCode.Migrations
 
             modelBuilder.Entity("WoflDogWebCode.Models.Menu", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<long>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
@@ -31,7 +31,7 @@ namespace WoflDogWebCode.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int?>("ParentId")
+                    b.Property<long?>("ParentId")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Title")
@@ -43,10 +43,28 @@ namespace WoflDogWebCode.Migrations
                     b.ToTable("Menus");
                 });
 
-            modelBuilder.Entity("WoflDogWebCode.Models.Recommendation", b =>
+            modelBuilder.Entity("WoflDogWebCode.Models.ResourceClass", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<long>("Id")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Resource_Class", (string)null);
+                });
+
+            modelBuilder.Entity("WoflDogWebCode.Models.ResourceNetworkInfo", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<long?>("ClassId")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Description")
@@ -67,7 +85,23 @@ namespace WoflDogWebCode.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Recommendations");
+                    b.HasIndex("ClassId");
+
+                    b.ToTable("Resource_Network_Info", (string)null);
+                });
+
+            modelBuilder.Entity("WoflDogWebCode.Models.ResourceNetworkInfo", b =>
+                {
+                    b.HasOne("WoflDogWebCode.Models.ResourceClass", "Class")
+                        .WithMany("ResourceNetworkInfos")
+                        .HasForeignKey("ClassId");
+
+                    b.Navigation("Class");
+                });
+
+            modelBuilder.Entity("WoflDogWebCode.Models.ResourceClass", b =>
+                {
+                    b.Navigation("ResourceNetworkInfos");
                 });
 #pragma warning restore 612, 618
         }
