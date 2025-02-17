@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj": {}
+    "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj": {}
   },
   "projects": {
-    "D:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj": {
+    "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj",
+        "projectUniqueName": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj",
         "projectName": "WoflDogWebCode",
-        "projectPath": "D:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj",
+        "projectPath": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\WoflDogWebCode.csproj",
         "packagesPath": "C:\\Users\\Finghin\\.nuget\\packages\\",
-        "outputPath": "D:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\obj\\",
+        "outputPath": "d:\\Finghin\\MyGitLabLibrary\\WoflDogWebCode\\WoflDogWebCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
